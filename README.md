@@ -6,6 +6,12 @@ Open mind always, no determinism. I hate clickbaits and knowledge quacks.
 - 📫 How to reach me: **brunnomenxa** on Discord
 
 <!--
+![BrunnoMenxa GitHub stats](https://github-readme-stats.vercel.app/api?username=brunnomenxa&show=commits,prs,issues&show_icons=true&theme=radical)
+
+<a href="https://github-readme-stats.vercel.app/api?username=brunnomenxa&show=commits,prs,issues&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunnomenxa&show=commits,prs,issues&show_icons=true&theme=radical" />
+</a>
+
 **brunnomenxa/brunnomenxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
